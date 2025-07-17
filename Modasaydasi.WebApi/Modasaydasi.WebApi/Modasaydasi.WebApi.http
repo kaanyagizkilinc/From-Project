@@ -1,0 +1,6 @@
+@Modasaydasi.WebApi_HostAddress = http://localhost:44397
+
+GET {{Modasaydasi.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

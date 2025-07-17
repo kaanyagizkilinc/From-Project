@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD08B1B2-DD72-4637-BC51-37239F2928AB}|Modasaydasi.WebApi\\Modasaydasi.WebApi.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasaydasi.webapi\\modasaydasi.webapi\\model\\kullanicikayitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD08B1B2-DD72-4637-BC51-37239F2928AB}|Modasaydasi.WebApi\\Modasaydasi.WebApi.csproj|solutionrelative:modasaydasi.webapi\\model\\kullanicikayitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD08B1B2-DD72-4637-BC51-37239F2928AB}|Modasaydasi.WebApi\\Modasaydasi.WebApi.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasaydasi.webapi\\modasaydasi.webapi\\service\\kullanicikay\u0131tservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD08B1B2-DD72-4637-BC51-37239F2928AB}|Modasaydasi.WebApi\\Modasaydasi.WebApi.csproj|solutionrelative:modasaydasi.webapi\\service\\kullanicikay\u0131tservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD08B1B2-DD72-4637-BC51-37239F2928AB}|Modasaydasi.WebApi\\Modasaydasi.WebApi.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasaydasi.webapi\\modasaydasi.webapi\\controllers\\kullanicikaydetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD08B1B2-DD72-4637-BC51-37239F2928AB}|Modasaydasi.WebApi\\Modasaydasi.WebApi.csproj|solutionrelative:modasaydasi.webapi\\controllers\\kullanicikaydetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD08B1B2-DD72-4637-BC51-37239F2928AB}|Modasaydasi.WebApi\\Modasaydasi.WebApi.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasaydasi.webapi\\modasaydasi.webapi\\model\\interface\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD08B1B2-DD72-4637-BC51-37239F2928AB}|Modasaydasi.WebApi\\Modasaydasi.WebApi.csproj|solutionrelative:modasaydasi.webapi\\model\\interface\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B19889D2-B88A-5B0C-CD98-5058773E9F91}|..\\Modasayfasi.Model\\Modasayfasi.Model\\Modasayfasi.Model.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasayfasi.model\\modasayfasi.model\\entity\\registerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD08B1B2-DD72-4637-BC51-37239F2928AB}|Modasaydasi.WebApi\\Modasaydasi.WebApi.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasaydasi.webapi\\modasaydasi.webapi\\helper\\hash_salthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD08B1B2-DD72-4637-BC51-37239F2928AB}|Modasaydasi.WebApi\\Modasaydasi.WebApi.csproj|solutionrelative:modasaydasi.webapi\\helper\\hash_salthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B19889D2-B88A-5B0C-CD98-5058773E9F91}|..\\Modasayfasi.Model\\Modasayfasi.Model\\Modasayfasi.Model.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasayfasi.model\\modasayfasi.model\\entity\\kullaniciokulbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B19889D2-B88A-5B0C-CD98-5058773E9F91}|..\\Modasayfasi.Model\\Modasayfasi.Model\\Modasayfasi.Model.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasayfasi.model\\modasayfasi.model\\entity\\vmmodel\\vmokullar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B19889D2-B88A-5B0C-CD98-5058773E9F91}|..\\Modasayfasi.Model\\Modasayfasi.Model\\Modasayfasi.Model.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasayfasi.model\\modasayfasi.model\\entity\\okulmedyalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B19889D2-B88A-5B0C-CD98-5058773E9F91}|..\\Modasayfasi.Model\\Modasayfasi.Model\\Modasayfasi.Model.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasayfasi.model\\modasayfasi.model\\entity\\kullanicimedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD08B1B2-DD72-4637-BC51-37239F2928AB}|Modasaydasi.WebApi\\Modasaydasi.WebApi.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasaydasi.webapi\\modasaydasi.webapi\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD08B1B2-DD72-4637-BC51-37239F2928AB}|Modasaydasi.WebApi\\Modasaydasi.WebApi.csproj|solutionrelative:modasaydasi.webapi\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B19889D2-B88A-5B0C-CD98-5058773E9F91}|..\\Modasayfasi.Model\\Modasayfasi.Model\\Modasayfasi.Model.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasayfasi.model\\modasayfasi.model\\entity\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B19889D2-B88A-5B0C-CD98-5058773E9F91}|..\\Modasayfasi.Model\\Modasayfasi.Model\\Modasayfasi.Model.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasayfasi.model\\modasayfasi.model\\entity\\vmmodel\\vmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD08B1B2-DD72-4637-BC51-37239F2928AB}|Modasaydasi.WebApi\\Modasaydasi.WebApi.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasaydasi.webapi\\modasaydasi.webapi\\migrations\\20250711095047_registerlogin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD08B1B2-DD72-4637-BC51-37239F2928AB}|Modasaydasi.WebApi\\Modasaydasi.WebApi.csproj|solutionrelative:modasaydasi.webapi\\migrations\\20250711095047_registerlogin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Migrations\\20250710063255_okulmedy\u0131d1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modasaydasi.WebApi\\Migrations\\20250710063255_okulmedy\u0131d1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD08B1B2-DD72-4637-BC51-37239F2928AB}|Modasaydasi.WebApi\\Modasaydasi.WebApi.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasaydasi.webapi\\modasaydasi.webapi\\migrations\\20250711141939_sonupdate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD08B1B2-DD72-4637-BC51-37239F2928AB}|Modasaydasi.WebApi\\Modasaydasi.WebApi.csproj|solutionrelative:modasaydasi.webapi\\migrations\\20250711141939_sonupdate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD08B1B2-DD72-4637-BC51-37239F2928AB}|Modasaydasi.WebApi\\Modasaydasi.WebApi.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasaydasi.webapi\\modasaydasi.webapi\\migrations\\20250711141655_sonupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD08B1B2-DD72-4637-BC51-37239F2928AB}|Modasaydasi.WebApi\\Modasaydasi.WebApi.csproj|solutionrelative:modasaydasi.webapi\\migrations\\20250711141655_sonupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD08B1B2-DD72-4637-BC51-37239F2928AB}|Modasaydasi.WebApi\\Modasaydasi.WebApi.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasaydasi.webapi\\modasaydasi.webapi\\migrations\\20250714131055_salthash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD08B1B2-DD72-4637-BC51-37239F2928AB}|Modasaydasi.WebApi\\Modasaydasi.WebApi.csproj|solutionrelative:modasaydasi.webapi\\migrations\\20250714131055_salthash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250714131055_salthash.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Migrations\\20250714131055_salthash.cs",
+              "RelativeDocumentMoniker": "Modasaydasi.WebApi\\Migrations\\20250714131055_salthash.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Migrations\\20250714131055_salthash.cs",
+              "RelativeToolTip": "Modasaydasi.WebApi\\Migrations\\20250714131055_salthash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:10:55.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterLogin.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\RegisterLogin.cs",
+              "RelativeDocumentMoniker": "..\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\RegisterLogin.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\RegisterLogin.cs",
+              "RelativeToolTip": "..\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\RegisterLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:44:38.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KullaniciKayitManager.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Model\\KullaniciKayitManager.cs",
+              "RelativeDocumentMoniker": "Modasaydasi.WebApi\\Model\\KullaniciKayitManager.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Model\\KullaniciKayitManager.cs",
+              "RelativeToolTip": "Modasaydasi.WebApi\\Model\\KullaniciKayitManager.cs",
+              "ViewState": "AgIAAOsBAAAAAAAAAAAqwPgBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:11:35.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KullaniciKaydetController.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Controllers\\KullaniciKaydetController.cs",
+              "RelativeDocumentMoniker": "Modasaydasi.WebApi\\Controllers\\KullaniciKaydetController.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Controllers\\KullaniciKaydetController.cs",
+              "RelativeToolTip": "Modasaydasi.WebApi\\Controllers\\KullaniciKaydetController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAYwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:10:48.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Model\\Interface\\Interface.cs",
+              "RelativeDocumentMoniker": "Modasaydasi.WebApi\\Model\\Interface\\Interface.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Model\\Interface\\Interface.cs",
+              "RelativeToolTip": "Modasaydasi.WebApi\\Model\\Interface\\Interface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:11:12.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KullaniciKay\u0131tService.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Service\\KullaniciKay\u0131tService.cs",
+              "RelativeDocumentMoniker": "Modasaydasi.WebApi\\Service\\KullaniciKay\u0131tService.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Service\\KullaniciKay\u0131tService.cs",
+              "RelativeToolTip": "Modasaydasi.WebApi\\Service\\KullaniciKay\u0131tService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T14:10:02.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hash_SaltHelper.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Helper\\Hash_SaltHelper.cs",
+              "RelativeDocumentMoniker": "Modasaydasi.WebApi\\Helper\\Hash_SaltHelper.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Helper\\Hash_SaltHelper.cs",
+              "RelativeToolTip": "Modasaydasi.WebApi\\Helper\\Hash_SaltHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:59:50.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "vmOkullar.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\vmmodel\\vmOkullar.cs",
+              "RelativeDocumentMoniker": "..\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\vmmodel\\vmOkullar.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\vmmodel\\vmOkullar.cs",
+              "RelativeToolTip": "..\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\vmmodel\\vmOkullar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T14:28:41.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KullaniciOkulBilgileri.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\KullaniciOkulBilgileri.cs",
+              "RelativeDocumentMoniker": "..\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\KullaniciOkulBilgileri.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\KullaniciOkulBilgileri.cs",
+              "RelativeToolTip": "..\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\KullaniciOkulBilgileri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:32:01.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OkulMedyalar.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\OkulMedyalar.cs",
+              "RelativeDocumentMoniker": "..\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\OkulMedyalar.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\OkulMedyalar.cs",
+              "RelativeToolTip": "..\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\OkulMedyalar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T14:18:54.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KullaniciMedia.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\KullaniciMedia.cs",
+              "RelativeDocumentMoniker": "..\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\KullaniciMedia.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\KullaniciMedia.cs",
+              "RelativeToolTip": "..\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\KullaniciMedia.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T14:09:06.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250711141939_sonUpdate1.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Migrations\\20250711141939_sonUpdate1.cs",
+              "RelativeDocumentMoniker": "Modasaydasi.WebApi\\Migrations\\20250711141939_sonUpdate1.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Migrations\\20250711141939_sonUpdate1.cs",
+              "RelativeToolTip": "Modasaydasi.WebApi\\Migrations\\20250711141939_sonUpdate1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T14:19:39.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Model\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Modasaydasi.WebApi\\Model\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Model\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Modasaydasi.WebApi\\Model\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:48:23.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250711141655_SonUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Migrations\\20250711141655_SonUpdate.cs",
+              "RelativeDocumentMoniker": "Modasaydasi.WebApi\\Migrations\\20250711141655_SonUpdate.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Migrations\\20250711141655_SonUpdate.cs",
+              "RelativeToolTip": "Modasaydasi.WebApi\\Migrations\\20250711141655_SonUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T14:16:55.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\Media.cs",
+              "RelativeDocumentMoniker": "..\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\Media.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\Media.cs",
+              "RelativeToolTip": "..\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\Media.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T10:58:20.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "vmRegister.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\vmmodel\\vmRegister.cs",
+              "RelativeDocumentMoniker": "..\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\vmmodel\\vmRegister.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\vmmodel\\vmRegister.cs",
+              "RelativeToolTip": "..\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\vmmodel\\vmRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:02:35.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250711095047_RegisterLogin1.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Migrations\\20250711095047_RegisterLogin1.cs",
+              "RelativeDocumentMoniker": "Modasaydasi.WebApi\\Migrations\\20250711095047_RegisterLogin1.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Migrations\\20250711095047_RegisterLogin1.cs",
+              "RelativeToolTip": "Modasaydasi.WebApi\\Migrations\\20250711095047_RegisterLogin1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:50:48.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250710063255_okulmedy\u0131d1.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Migrations\\20250710063255_okulmedy\u0131d1.cs",
+              "RelativeDocumentMoniker": "Modasaydasi.WebApi\\Migrations\\20250710063255_okulmedy\u0131d1.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasaydasi.WebApi\\Modasaydasi.WebApi\\Migrations\\20250710063255_okulmedy\u0131d1.cs",
+              "RelativeToolTip": "Modasaydasi.WebApi\\Migrations\\20250710063255_okulmedy\u0131d1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:32:56.02Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

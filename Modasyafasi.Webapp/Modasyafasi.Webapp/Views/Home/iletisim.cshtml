@@ -1,0 +1,155 @@
+﻿<center>
+    <h1 class="text-dark">İletişim Sayfası</h1>
+    <p class="fs-md-4 fs-dm-2 text-dark">İletişim için lütfen alttaki bilgileri doldurunuz...</p>
+</center>
+<div class="container-fluid ">
+
+    <!-- SOL TARAF: FORM -->
+    <div class="">
+        <div class="container-fluid bg-dark" id="cont1" style="max-width:960px; width:auto;">
+            <form onsubmit="return false;" style="max-width:950px; width:auto;">
+                <div class="row">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="mb-3">
+                            <label for="Ad" class="form-label text-light"><strong>Ad:</strong></label>
+                            <input type="text" class="form-control" id="Ad" placeholder="Adınızı giriniz...">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <div class="mb-3">
+                            <label for="Soyad" class="form-label text-light"><strong>Soyad:</strong></label>
+                            <input type="text" class="form-control" id="Soyad" placeholder="Soyadınızı giriniz...">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="mb-3">
+                            <label for="DogumTarihi" class="form-label text-light"><strong>Doğum Tarihi:</strong></label>
+                            <input type="date" class="form-control" id="DogumTarihi">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <div class="row">
+                            <div class="col-6">
+                                <label class="form-check-label form-label text-light" for="erkekcheck"><strong>Erkek:</strong></label>
+                                <input class="form-check-input form-control" type="checkbox" value="1" id="erkekcheck" checked>
+                            </div>
+                            <div class="col-lg-6 col-sm-12">
+                                <label class="form-check-label form-label text-light" for="kadincheck"><strong>Kadın:</strong></label>
+                                <input class="form-check-input form-control" type="checkbox" value="0" id="kadincheck">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <script>
+                    document.getElementById('erkekcheck').addEventListener('change', function () {
+                        if (this.checked) {
+                            document.getElementById('kadincheck').checked = false;
+                        }
+                    });
+                    document.getElementById('kadincheck').addEventListener('change', function () {
+                        if (this.checked) {
+                            document.getElementById('erkekcheck').checked = false;
+                        }
+                    });
+                </script>
+                <div class="row">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="mb-3">
+                            <label for="Ulke" class="form-label text-light"><strong>Ülke:</strong></label>
+                            <select class="form-control form-select" id="Ulke">
+                                <option value="">ülke Seçin...</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <div class="mb-3">
+                            <label for="Sehir" class="form-label text-light"><strong>Şehir:</strong></label>
+                            <select class="form-control form-select" id="Sehir">
+                                <option value="">Lütfen Ülke Seçiniz...</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-8">
+                        <label for="Aciklama" class="form-label text-light"><strong>Açıklama:</strong></label>
+                        <textarea class="form-control" id="Aciklama" placeholder="İstekleriniz, bizler için önemli"></textarea>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-8">
+                        <label for="mediaInput" class="form-label text-light"><strong>Profil Fotoğrafı:</strong></label>
+                        <input class="form-control" id="mediaInput" type="file">
+                        <img src="#" id="preview" alt="Preview img" style="width:200px; height: 200px; visibility:hidden; margin-top: 10px; border: 12px solid black; border-radius: 43px;" />
+                    </div>
+                </div>
+                <center>
+                <div>
+@*                     <button id="ekleBtn1" class="btn btn-light mt-3" type="button">Okul Ekle</button> *@
+                </div>
+                <div class="btn-box mt-3">
+                        <button class="form-check btn btn-light fs-5" id="kaydetBtn" type="submit">Gönder</button>
+                </div>
+                </center>
+            </form>
+        </div>
+    </div>
+    <br />
+
+    <div class=" bg-dark container-fluid" style="border-radius: 40px;max-width:960px; width:auto;" id="medyaAlanlari">
+        <div class="row">
+            <div class="col-10"><h4 class="text-light"style="margin: 20px;">Mezuniyet Bilgileri</h4></div>
+            <div class="col-2">
+                <div>
+                    <button id="ekleBtn1" class="btn btn-light mt-4 fs-5" type="button">Okul Ekle</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="media-div" data-id="1">
+            <label class="form-label text-light"><strong>Okul Türü:</strong></label>
+            <select class="form-control okul-select" id="Okul1">
+                <option value="1">Lise</option>
+                <option value="2">Üniversite</option>
+            </select>
+            <label class="form-label text-light mt-2"><strong>Mezuniyet Tarihi:</strong></label>
+            <input type="date" id="MezuniyetYili1" class="form-control mezuniyet-tarihi">
+            <label class="form-label text-light mt-2"><strong>Okul Adı:</strong></label>
+            <input type="text" class="form-control okul-adi" id="OkulAdi1" placeholder="Okul Adı giriniz...">
+            <label class="form-label text-light mt-2" ><strong>Diploma:</strong></label>
+            <input type="file" class="form-control media-input" id="mediaIn1" multiple>
+            <img src="#" id="preview1" alt="Preview img" style="width:200px; height: 200px; visibility:hidden; margin-top: 10px; border: 12px solid black; border-radius: 43px;" />
+            <script>
+                const mediaInput = document.getElementById('mediaIn1');
+                const previewImg = document.getElementById('preview1');
+
+                mediaInput.addEventListener('change', function () {
+                    const file = this.files[0];
+                    if (file) {
+                        previewImg.src = URL.createObjectURL(file);
+                        previewImg.style.visibility = "visible";
+                    }
+                });
+            </script>
+        </div>
+    </div>
+</div>
+
+<br /><br />
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const media = document.getElementById('mediaInput');
+        const prew = document.getElementById('preview');
+        media.onchange = evt => {
+            const [file] = media.files;
+            if (file) {
+                prew.src = URL.createObjectURL(file);
+                prew.style.visibility = "visible";
+            }
+        };
+    });
+</script>
+<script src="~/js/kullanıcıİletisim.js"></script>
+<script src="~/js/okulkayit.js"></script>

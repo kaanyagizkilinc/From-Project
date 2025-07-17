@@ -1,0 +1,211 @@
+﻿@using Modasayfasi.Model.Entity;
+@model Modasayfasi.Model.Entity.Kullanici;
+
+
+<center>
+    <h1>İletişim Güncelleme Sayfası</h1>
+    <p class="fs-md-4 fs-dm-2">İletişim için lütfen alttaki bilgileri doldurunuz...</p>
+</center>
+<div class="container-fluid">
+    <div>
+        <div class="container-fluid bg-dark" id="cont1" style="max-width:960px; width:auto;">
+            <form>
+                <div class="row">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="mb-3">
+                            <label for="Ad" class="form-label text-light"><strong>Ad:</strong></label>
+                            <input type="text" class="form-control" id="Ad" value="@Model.Ad" placeholder="Adınızı giriniz...">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <div class="mb-3">
+                            <label for="Soyad" class="form-label text-light"><strong>Soyad:</strong></label>
+                            <input type="text" class="form-control" id="Soyad" value="@Model.Soyad" placeholder="Soyadınızı giriniz...">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="mb-3">
+                            <label for="DogumTarihi" class="form-label text-light"><strong>Doğum Tarihi:</strong></label>
+                            <input type="date" class="form-control" id="DogumTarihi" value="@Model.DogumTarihi.ToString("yyyy-MM-dd")" placeholder="YYY-AA-GG">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <div class="row">
+                            <div class="col-6">
+                                <label class="form-check-label form-label text-light" for="erkekcheck"><strong>Erkek:</strong></label>
+                                <input class="form-check-input form-control" type="checkbox" name="Cinsiyet" @(Model.Cinsiyet == "1" ? "checked" : "") id="erkekcheck" value="1">
+                            </div>
+                            <div class="col-lg-6 col-sm-12">
+                                <label class="form-check-label form-label text-light" for="kadincheck"><strong>Kadın:</strong></label>
+                                <input class="form-check-input form-control" type="checkbox" name="Cinsiyet" @(Model.Cinsiyet == "0" ? "checked" : "") id="kadincheck" value="0">
+                            </div>
+                            <input type="hidden" id="Id" value="@Model.Id" />
+                        </div>
+                        <script>
+                            document.getElementById('erkekcheck').addEventListener('change', function () {
+
+                                if (this.checked) {
+                                    document.getElementById('kadincheck').checked = false;
+                                    this.value = 1;
+                                } else {
+                                    document.getElementById('kadincheck').checked = true;
+                                    this.value = 0;
+                                }
+                            });
+
+                            document.getElementById('kadincheck').addEventListener('change', function () {
+                                if (this.checked) {
+                                    document.getElementById('erkekcheck').checked = false;
+                                    this.value = 1;
+                                }
+                                else {
+                                    document.getElementById('erkekcheck').checked = true;
+                                    this.value = 0;
+                                }
+                            });
+                        </script>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-12">
+                            <div class="mb-3">
+                                <label for="Ulke" class="form-label text-light"><strong>Ülke:</strong></label>
+                                <select class="form-control form-select" data-secili-id="@Model.Ulke" id="Ulke" name="Ulke">
+                                    @foreach (var ulke in ViewBag.Konumlar as List<CografyaKutuphanesi>)
+                                    {
+                                        if (ulke.Ustid == 0)
+                                        {
+                                            <option value="@ulke.Id" selected>@ulke.Tanim</option>
+                                        }
+
+                                    }
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-12">
+                            <div class="mb-3">
+                                <label for="Sehir" class="form-label text-light"><strong>Şehir:</strong></label>
+                                <select class="form-control form-select" data-secili-id="@Model.Sehir" value="" id="Sehir">
+                                    @foreach (var sehir in ViewBag.Konumlar as List<CografyaKutuphanesi>)
+                                    {
+                                        if (sehir.Id.ToString() == Model.Sehir)
+                                        {
+                                            <option value="@sehir.Id" selected>@sehir.Tanim</option>
+                                        }
+                                    }
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <script>
+                        // document.getElementById('Ulke').addEventListener('change', function () {
+                        //     const ulke = this.value;
+                        //     const sehirSelect = document.getElementById('Sehir');
+                        //     sehirSelect.innerHTML = '';
+                        //     if (ulke === 'Almanya') {
+                        //         sehirSelect.innerHTML += '<option value="Berlin">Berlin</option>';
+                        //         sehirSelect.innerHTML += '<option value="Münih">Münih</option>';
+                        //     } else if (ulke === 'Fransa') {
+                        //         sehirSelect.innerHTML += '<option value="Paris">Paris</option>';
+                        //         sehirSelect.innerHTML += '<option value="Lyon">Lyon</option>';
+                        //     } else if (ulke === 'Türkiye') {
+                        //         sehirSelect.innerHTML += '<option value="İstanbul">İstanbul</option>';
+                        //         sehirSelect.innerHTML += '<option value="Ankara">Ankara</option>';
+                        //     } else if (ulke === 'USA') {
+                        //         sehirSelect.innerHTML += '<option value="New York">New York</option>';
+                        //         sehirSelect.innerHTML += '<option value="Los Angeles">Los Angeles</option>';
+                        //     } else {
+                        //         sehirSelect.innerHTML += '<option value="">Lütfen Ülke Seçiniz...</option>';
+                        //     }
+                        // });
+                    </script>
+                    <div class="row">
+                        <div class="col-8">
+                            <label for="Aciklama" class="form-label text-light"><strong>Açıklama:</strong></label>
+                            <textarea class="form-control" id="Aciklama" placeholder="İstekleriniz, bizler için önemli">@Model.Aciklama</textarea>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-8">
+                            <label for="mediaInput" class="form-label text-light"><strong>Profil Fotoğrafı:</strong></label>
+                            <input class="form-control" id="mediaInput" type="file"></input>
+                            <lable class="text-light"><strong>Ön İzleme:</strong></lable>
+                            <div id="preview"></div>
+                            <img id="prew" style="display:none; width:200px; height:200px; margin-top:10px; border:12px solid black; border-radius:43px;" />
+                            <script>
+                                var media = document.getElementById('mediaInput');
+                                var prew = document.getElementById('prew');
+                                media.onchange = evt =>{
+                                    const[file] = media.files
+                                    if(file){
+                                        prew.src = URL.createObjectURL(file);
+                                        prew.style.display = 'block';
+                                    }
+                                }
+                            </script>
+                        </div>
+                    </div>
+                    <center>
+                    <div class="btn-box">
+                            <button class="btn btn-light" type="button" id="GuncelleBtn">Güncelle</button>
+
+                    </div>
+                    </center>
+            </form>
+        </div>
+        <p class="fs-md-4 fs-dm-2 text-light">&copy; Bütün bilgileriniz saklıdır...</p>
+    </div>
+    <br />
+    
+    <div class=" bg-dark container-fluid" style="border-radius: 40px;max-width:960px; width:auto;" id="medyaAlanlari">
+        <div class="row">
+            <div class="col-10"><h4 class="text-light" style="margin: 20px;">Mezuniyet Bilgileri</h4></div>
+            <div class="col-2">
+                <div>
+                    <button id="ekleBtn1" class="btn btn-light mt-4 fs-5" type="button">Okul Ekle</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="media-div" data-id="1" style="display: none;">
+            <label class="form-label text-light"><strong>Okul Türü:</strong></label>
+            <select class="form-control okul-select" id="Okul1">
+                <option value="1">Lise</option>
+                <option value="2">Üniversite</option>
+            </select>
+            <label class="form-label text-light mt-2"><strong>Mezuniyet Tarihi:</strong></label>
+            <input type="date" id="MezuniyetYili1" class="form-control mezuniyet-tarihi">
+            <label class="form-label text-light mt-2"><strong>Okul Adı:</strong></label>
+            <input type="text" class="form-control okul-adi" id="OkulAdi1" placeholder="Okul Adı giriniz...">
+            <label class="form-label text-light mt-2"><strong>Diploma:</strong></label>
+            <input type="file" class="form-control media-input" id="mediaIn1" multiple>
+            <img src="#" id="preview1" alt="Preview img" style="width:200px; height: 200px; visibility:hidden; margin-top: 10px; border: 12px solid black; border-radius: 43px;" />
+            <script>
+                const mediaInput = document.getElementById('mediaIn1');
+                const previewImg = document.getElementById('preview1');
+
+                mediaInput.addEventListener('change', function () {
+                    const file = this.files[0];
+                    if (file) {
+                        previewImg.src = URL.createObjectURL(file);
+                        previewImg.style.visibility = "visible";
+                    }
+                });
+            </script>
+        </div>
+        <br />
+    </div>
+    <div id="medyaAlanlari"></div>
+</div>
+
+    
+
+<script src="~/js/okulverigetir.js"></script>
+<script src="~/js/medyagetir.js"></script>
+<script src="~/js/iletisimlisteguncelle.js"></script>
+
+
+
+
+

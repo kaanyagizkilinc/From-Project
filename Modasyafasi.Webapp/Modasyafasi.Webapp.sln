@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modasyafasi.Webapp", "Modasyafasi.Webapp\Modasyafasi.Webapp.csproj", "{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modasayfasi.Model", "..\Modasayfasi.Model\Modasayfasi.Model\Modasayfasi.Model.csproj", "{B19889D2-B88A-5B0C-CD98-5058773E9F91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B19889D2-B88A-5B0C-CD98-5058773E9F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B19889D2-B88A-5B0C-CD98-5058773E9F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B19889D2-B88A-5B0C-CD98-5058773E9F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B19889D2-B88A-5B0C-CD98-5058773E9F91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8A61812-5823-4064-86D3-6F28F6999145}
+	EndGlobalSection
+EndGlobal

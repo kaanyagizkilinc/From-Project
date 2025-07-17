@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasyafasi.Webapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}|Modasyafasi.Webapp\\Modasyafasi.Webapp.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasyafasi.webapp\\modasyafasi.webapp\\wwwroot\\js\\loginregister.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}|Modasyafasi.Webapp\\Modasyafasi.Webapp.csproj|solutionrelative:modasyafasi.webapp\\wwwroot\\js\\loginregister.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}|Modasyafasi.Webapp\\Modasyafasi.Webapp.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasyafasi.webapp\\modasyafasi.webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}|Modasyafasi.Webapp\\Modasyafasi.Webapp.csproj|solutionrelative:modasyafasi.webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}|Modasyafasi.Webapp\\Modasyafasi.Webapp.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasyafasi.webapp\\modasyafasi.webapp\\service\\kullaniciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}|Modasyafasi.Webapp\\Modasyafasi.Webapp.csproj|solutionrelative:modasyafasi.webapp\\service\\kullaniciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B19889D2-B88A-5B0C-CD98-5058773E9F91}|..\\Modasayfasi.Model\\Modasayfasi.Model\\Modasayfasi.Model.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasayfasi.model\\modasayfasi.model\\entity\\registerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}|Modasyafasi.Webapp\\Modasyafasi.Webapp.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasyafasi.webapp\\modasyafasi.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}|Modasyafasi.Webapp\\Modasyafasi.Webapp.csproj|solutionrelative:modasyafasi.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}|Modasyafasi.Webapp\\Modasyafasi.Webapp.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasyafasi.webapp\\modasyafasi.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}|Modasyafasi.Webapp\\Modasyafasi.Webapp.csproj|solutionrelative:modasyafasi.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}|Modasyafasi.Webapp\\Modasyafasi.Webapp.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasyafasi.webapp\\modasyafasi.webapp\\models\\interface\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}|Modasyafasi.Webapp\\Modasyafasi.Webapp.csproj|solutionrelative:modasyafasi.webapp\\models\\interface\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}|Modasyafasi.Webapp\\Modasyafasi.Webapp.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasyafasi.webapp\\modasyafasi.webapp\\wwwroot\\js\\iletisimlisteguncelle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}|Modasyafasi.Webapp\\Modasyafasi.Webapp.csproj|solutionrelative:modasyafasi.webapp\\wwwroot\\js\\iletisimlisteguncelle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}|Modasyafasi.Webapp\\Modasyafasi.Webapp.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasyafasi.webapp\\modasyafasi.webapp\\wwwroot\\js\\\u0130letisimlistesi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}|Modasyafasi.Webapp\\Modasyafasi.Webapp.csproj|solutionrelative:modasyafasi.webapp\\wwwroot\\js\\\u0130letisimlistesi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}|Modasyafasi.Webapp\\Modasyafasi.Webapp.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasyafasi.webapp\\modasyafasi.webapp\\wwwroot\\js\\verisil.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}|Modasyafasi.Webapp\\Modasyafasi.Webapp.csproj|solutionrelative:modasyafasi.webapp\\wwwroot\\js\\verisil.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}|Modasyafasi.Webapp\\Modasyafasi.Webapp.csproj|c:\\users\\yagiz\\desktop\\kaydetmesqlproje1\\modasyafasi.webapp\\modasyafasi.webapp\\wwwroot\\js\\ulkesehirdropdown.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{21B1ABFC-5B10-48E7-AE96-EC4A232E4A49}|Modasyafasi.Webapp\\Modasyafasi.Webapp.csproj|solutionrelative:modasyafasi.webapp\\wwwroot\\js\\ulkesehirdropdown.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 278,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterLogin.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\RegisterLogin.cs",
+              "RelativeDocumentMoniker": "..\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\RegisterLogin.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\RegisterLogin.cs",
+              "RelativeToolTip": "..\\Modasayfasi.Model\\Modasayfasi.Model\\Entity\\RegisterLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:17:34.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasyafasi.Webapp\\Modasyafasi.Webapp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Modasyafasi.Webapp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasyafasi.Webapp\\Modasyafasi.Webapp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Modasyafasi.Webapp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCcAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T11:28:52.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasyafasi.Webapp\\Modasyafasi.Webapp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Modasyafasi.Webapp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasyafasi.Webapp\\Modasyafasi.Webapp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Modasyafasi.Webapp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:52:46.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KullaniciService.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasyafasi.Webapp\\Modasyafasi.Webapp\\Service\\KullaniciService.cs",
+              "RelativeDocumentMoniker": "Modasyafasi.Webapp\\Service\\KullaniciService.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasyafasi.Webapp\\Modasyafasi.Webapp\\Service\\KullaniciService.cs",
+              "RelativeToolTip": "Modasyafasi.Webapp\\Service\\KullaniciService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:55:41.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginRegister.js",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasyafasi.Webapp\\Modasyafasi.Webapp\\wwwroot\\js\\LoginRegister.js",
+              "RelativeDocumentMoniker": "Modasyafasi.Webapp\\wwwroot\\js\\LoginRegister.js",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasyafasi.Webapp\\Modasyafasi.Webapp\\wwwroot\\js\\LoginRegister.js",
+              "RelativeToolTip": "Modasyafasi.Webapp\\wwwroot\\js\\LoginRegister.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-11T09:27:58.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasyafasi.Webapp\\Modasyafasi.Webapp\\Program.cs",
+              "RelativeDocumentMoniker": "Modasyafasi.Webapp\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasyafasi.Webapp\\Modasyafasi.Webapp\\Program.cs",
+              "RelativeToolTip": "Modasyafasi.Webapp\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAiwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T10:37:00.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasyafasi.Webapp\\Modasyafasi.Webapp\\Models\\Interface\\Interface.cs",
+              "RelativeDocumentMoniker": "Modasyafasi.Webapp\\Models\\Interface\\Interface.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasyafasi.Webapp\\Modasyafasi.Webapp\\Models\\Interface\\Interface.cs",
+              "RelativeToolTip": "Modasyafasi.Webapp\\Models\\Interface\\Interface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:13:54.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "iletisimListeGuncelle.js",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasyafasi.Webapp\\Modasyafasi.Webapp\\wwwroot\\js\\iletisimListeGuncelle.js",
+              "RelativeDocumentMoniker": "Modasyafasi.Webapp\\wwwroot\\js\\iletisimListeGuncelle.js",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasyafasi.Webapp\\Modasyafasi.Webapp\\wwwroot\\js\\iletisimListeGuncelle.js",
+              "RelativeToolTip": "Modasyafasi.Webapp\\wwwroot\\js\\iletisimListeGuncelle.js",
+              "ViewState": "AgIAAAkCAAAAAAAAAAAAADMCAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-10T07:52:08.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UlkeSehirDropdown.js",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasyafasi.Webapp\\Modasyafasi.Webapp\\wwwroot\\js\\UlkeSehirDropdown.js",
+              "RelativeDocumentMoniker": "Modasyafasi.Webapp\\wwwroot\\js\\UlkeSehirDropdown.js",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasyafasi.Webapp\\Modasyafasi.Webapp\\wwwroot\\js\\UlkeSehirDropdown.js",
+              "RelativeToolTip": "Modasyafasi.Webapp\\wwwroot\\js\\UlkeSehirDropdown.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-10T14:39:04.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "\u0130letisimListesi.js",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasyafasi.Webapp\\Modasyafasi.Webapp\\wwwroot\\js\\\u0130letisimListesi.js",
+              "RelativeDocumentMoniker": "Modasyafasi.Webapp\\wwwroot\\js\\\u0130letisimListesi.js",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasyafasi.Webapp\\Modasyafasi.Webapp\\wwwroot\\js\\\u0130letisimListesi.js",
+              "RelativeToolTip": "Modasyafasi.Webapp\\wwwroot\\js\\\u0130letisimListesi.js",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwGAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-10T14:39:09.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VeriSil.js",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasyafasi.Webapp\\Modasyafasi.Webapp\\wwwroot\\js\\VeriSil.js",
+              "RelativeDocumentMoniker": "Modasyafasi.Webapp\\wwwroot\\js\\VeriSil.js",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\KaydetmesqlProje1\\Modasyafasi.Webapp\\Modasyafasi.Webapp\\wwwroot\\js\\VeriSil.js",
+              "RelativeToolTip": "Modasyafasi.Webapp\\wwwroot\\js\\VeriSil.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-10T14:39:02.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

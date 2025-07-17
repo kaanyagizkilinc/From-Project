@@ -1,0 +1,149 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+p{
+    font-family: Arial;
+}
+
+body {
+    margin-bottom: 60px;
+    background-image: url("/media/bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.img1 {
+    width: 100%;
+    max-width: 834px;
+    height: auto;
+    border: solid 13px;
+    border-radius: 43px;
+    box-shadow: 4px 4px 12px black;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    display: block;
+}
+
+.img2 {
+    margin-top: 5px;
+    width: 100%;
+    max-width: 400px;
+    height: 340px;
+    border: solid 13px;
+    border-radius: 43px;
+}
+
+#img3 {
+    width: 100%;
+    max-width: 400px;
+    height: 150px;
+    border-radius: 43px;
+}
+
+#img5 {
+    width: 100%;
+    max-width: 500px;
+    height: 350px;
+    border-radius: 43px;
+    border: solid 13px;
+    border-radius: 43px;
+    box-shadow: 4px 4px 12px black;
+}
+
+#img4 {
+    width: 100%;
+    max-width: 312px;
+    height: 330px;
+    border-radius: 43px;
+}
+
+.text {
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 43px;
+    height: 100%;
+    width: auto;
+    max-height: 330px;
+}
+
+.text1 {
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 43px;
+    height: 330px;
+    width: auto;
+    max-height: 330px;
+}
+
+.text2 {
+    margin-top: 15px;
+    background-color: white;
+    border-radius: 43px;
+    height: 150px;
+    width: auto;
+    max-height: 330px;
+}
+
+#con1 {
+    width: 100%;
+    max-width: 1000px;
+    height: 355px;
+    margin-bottom: 50px;
+    box-shadow: 4px 4px 12px black;
+}
+
+#con2 {
+    width: 100%;
+    max-width: 1000px;
+    height: 355px;
+    margin-bottom: 50px;
+    box-shadow: 4px 4px 12px black;
+}
+
+#con3 {
+    width: 100%;
+    max-width: 500px;
+    height: 350px;
+    margin-bottom: 50px;
+    box-shadow: 4px 4px 12px black;
+}
+
+/*Ýletiþim*/
+
+#cont1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 43px;
+    width: 100%;
+    max-width: 900px;
+    height: auto;
+    display: block;
+    box-shadow: 4px 4px 12px black;
+}
+
+textarea {
+    margin-bottom: 20px;
+}
+
+button {
+    margin-bottom: 20px;
+}
+
+button :hover {
+    background-color: rgb(193, 193, 193);
+}
